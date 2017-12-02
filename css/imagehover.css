@@ -69,14 +69,17 @@
    ----------------------------- */
 [class^='imghvr-fade'] figcaption, [class*=' imghvr-fade'] figcaption {
     opacity: 0;
+    background-color: white;
 }
 
 [class^='imghvr-fade']:hover > img, [class*=' imghvr-fade']:hover > img {
     opacity: 0;
+    background-color: white;
 }
 
 [class^='imghvr-fade']:hover figcaption, [class*=' imghvr-fade']:hover figcaption {
     opacity: 1;
+    background-color: white;
 }
 
 [class^='imghvr-fade']:hover > img, [class^='imghvr-fade']:hover figcaption, [class*=' imghvr-fade']:hover > img, [class*=' imghvr-fade']:hover figcaption {
