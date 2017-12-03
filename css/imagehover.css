@@ -14,7 +14,7 @@
     margin: 0;
     max-width: 100%;
     background-color: #ffffff;
-    color: #fff;
+    color: #000000;
     overflow: hidden;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -39,11 +39,12 @@
     bottom: 0;
     left: 0;
     right: 0;
-    color: #000000;
+    color: black;
 }
 
 [class^='imghvr-'] figcaption h1, [class^='imghvr-'] figcaption h2, [class^='imghvr-'] figcaption h3, [class^='imghvr-'] figcaption h4, [class^='imghvr-'] figcaption h5, [class^='imghvr-'] figcaption h6, [class*=' imghvr-'] figcaption h1, [class*=' imghvr-'] figcaption h2, [class*=' imghvr-'] figcaption h3, [class*=' imghvr-'] figcaption h4, [class*=' imghvr-'] figcaption h5, [class*=' imghvr-'] figcaption h6 {
-    color: #000000;
+    color: black;
+    text-decoration-color: black;
 }
 
 [class^='imghvr-'] a, [class*=' imghvr-'] a {
