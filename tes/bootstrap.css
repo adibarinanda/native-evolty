@@ -5596,8 +5596,8 @@ button.close {
   position: relative;
   -ms-flex: 0 1 auto;
       flex: 0 1 auto;
-  width: 10px;
-  height: 10px;
+  width: 30px;
+  height: 30px;
   border-radius: 100px;
   margin-right: 3px;
   margin-left: 3px;
