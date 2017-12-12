@@ -1,6 +1,6 @@
 jQuery(document).ready(function($){
 	var contentSections = $('.cd-section'),
-		navigationItems = $('#cd-vertical-nav a');
+		navigationItems = $('#cd-vertical-nav a, #mainNav');
 
 	updateNavigation();
 	$(window).on('scroll', function(){
