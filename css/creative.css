@@ -279,14 +279,14 @@ body {
       border-color: #ffffff;
       background-color: #ffffff}
       #mainNavelect .navbar-brand {
-        color: rgba(51, 60, 97, 0.7); }
+        color: rgb(33, 37, 41); }
         #mainNavelect .navbar-brand:focus, #mainNav .navbar-brand:hover {
           color: #333C61; }
       #mainNavelect .navbar-nav > li.nav-item > a.nav-link {
         padding: 0.5rem 1rem; }
       #mainNavelect .navbar-nav > li.nav-item > a.nav-link,
       #mainNavelect .navbar-nav > li.nav-item > a.nav-link:focus {
-        color: rgba(51, 60, 97, 0.7); }
+        color: rgb(51, 204, 255); }
         #mainNavelect .navbar-nav > li.nav-item > a.nav-link:hover,
         #mainNavelect .navbar-nav > li.nav-item > a.nav-link:focus:hover {
           color: #333C61; }
