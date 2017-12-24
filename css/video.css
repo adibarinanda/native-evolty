@@ -8,6 +8,8 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: absolute;
-	height: absolute;
+	width: 1350px;
+	height: 450px;
+	max-width: 100%;
+	max-height: 100%;
 }
